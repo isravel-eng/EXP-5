@@ -1,6 +1,6 @@
 # EXP–5  
 ## ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
-[Click here to check github submission](https://github.com/isravel-eng/EXP-2)
+[Click here to check github submission](https://github.com/isravel-eng/EXP-5)
 ---
 
 ## AIM
